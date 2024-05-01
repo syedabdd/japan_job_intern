@@ -1,0 +1,261 @@
+{
+    "job_posts": [
+      {
+        "img": "https://images.pexels.com/photos/7014337/pexels-photo-7014337.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Software Engineer",
+        "company": "Tech InnovatiCAons Inc.",
+        "location": "tokyo japan",
+        "salary": "$90,000 - $120,000 per year",
+        "description": "We are seeking a talented and motivated software engineer to join our team. You will be responsible for developing high-quality software solutions and collaborating with cross-functional teams to define, design, and ship new features.",
+        "requirements": [
+          "Bachelor's degree in Computer Science or related field",
+          "Proficiency in Java, Python, or similar programming languages",
+          "Experience with web application development frameworks (e.g., Django, Flask)",
+          "Strong problem-solving skills and attention to detail"
+        ],
+        "posted_date": "2024-05-01",
+        "expiry_date": "2024-06-01"
+      },
+      {
+        "img": "https://images.pexels.com/photos/7014337/pexels-photo-7014337.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Marketing Manager",
+        "company": "Global Marketing Solutions",
+        "location": "Kyoto , japan",
+        "salary": "$80,000 - $100,000 per year",
+        "description": "We are looking for an experienced marketing manager to develop and execute marketing strategies to drive customer acquisition, engagement, and retention. The ideal candidate will have a proven track record in digital marketing, excellent communication skills, and the ability to lead a team.",
+        "requirements": [
+          "Bachelor's degree in Marketing, Business Administration, or related field",
+          "Minimum of 5 years of experience in marketing roles",
+          "Expertise in digital marketing channels (e.g., SEO, SEM, social media)",
+          "Strong analytical skills and the ability to interpret data to make informed decisions"
+        ],
+        "posted_date": "2024-04-28",
+        "expiry_date": "2024-05-28"
+      },
+      {
+        "img": "https://images.pexels.com/photos/7014337/pexels-photo-7014337.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Data Scientist",
+        "company": "Insight Analytics",
+        "location": "Nagoya , japan",
+        "salary": "$100,000 - $130,000 per year",
+        "description": "We are seeking a skilled data scientist to analyze large datasets and generate actionable insights to drive business decisions. The ideal candidate will have a strong background in statistics, machine learning, and programming, with experience in data visualization and storytelling.",
+        "requirements": [
+          "Master's or Ph.D. in Statistics, Mathematics, Computer Science, or related field",
+          "Proficiency in programming languages such as Python or R",
+          "Experience with machine learning techniques and algorithms",
+          "Strong communication skills and the ability to present complex findings in a clear and concise manner"
+        ],
+        "posted_date": "2024-04-30",
+        "expiry_date": "2024-05-30"
+      },
+      {
+        "img": "https://images.pexels.com/photos/7014337/pexels-photo-7014337.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Software Engineer",
+        "company": "Tech Innovations Inc.",
+        "location": "Osaka , japan",
+        "salary": "$90,000 - $120,000 per year",
+        "description": "We are seeking a talented and motivated software engineer to join our team. You will be responsible for developing high-quality software solutions and collaborating with cross-functional teams to define, design, and ship new features.",
+        "requirements": [
+          "Bachelor's degree in Computer Science or related field",
+          "Proficiency in Java, Python, or similar programming languages",
+          "Experience with web application development frameworks (e.g., Django, Flask)",
+          "Strong problem-solving skills and attention to detail"
+        ],
+        "posted_date": "2024-05-01",
+        "expiry_date": "2024-06-01"
+      },
+      {
+        "img": "https://images.pexels.com/photos/7014337/pexels-photo-7014337.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Marketing Manager",
+        "company": "Global Marketing Solutions",
+        "location": "Sapporo , japan",
+        "salary": "$80,000 - $100,000 per year",
+        "description": "We are looking for an experienced marketing manager to develop and execute marketing strategies to drive customer acquisition, engagement, and retention. The ideal candidate will have a proven track record in digital marketing, excellent communication skills, and the ability to lead a team.",
+        "requirements": [
+          "Bachelor's degree in Marketing, Business Administration, or related field",
+          "Minimum of 5 years of experience in marketing roles",
+          "Expertise in digital marketing channels (e.g., SEO, SEM, social media)",
+          "Strong analytical skills and the ability to interpret data to make informed decisions"
+        ],
+        "posted_date": "2024-04-28",
+        "expiry_date": "2024-05-28"
+      },
+      {
+        "img": "https://images.pexels.com/photos/7014337/pexels-photo-7014337.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Data Scientist",
+        "company": "Insight Analytics",
+        "location": "Tokyo , japan",
+        "salary": "$100,000 - $130,000 per year",
+        "description": "We are seeking a skilled data scientist to analyze large datasets and generate actionable insights to drive business decisions. The ideal candidate will have a strong background in statistics, machine learning, and programming, with experience in data visualization and storytelling.",
+        "requirements": [
+          "Master's or Ph.D. in Statistics, Mathematics, Computer Science, or related field",
+          "Proficiency in programming languages such as Python or R",
+          "Experience with machine learning techniques and algorithms",
+          "Strong communication skills and the ability to present complex findings in a clear and concise manner"
+        ],
+        "posted_date": "2024-04-30",
+        "expiry_date": "2024-05-30"
+      },
+      {
+        "img": "https://images.pexels.com/photos/7014337/pexels-photo-7014337.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Software Engineer",
+        "company": "Tech Innovations Inc.",
+        "location": "Hiroshima , japan",
+        "salary": "$90,000 - $120,000 per year",
+        "description": "We are seeking a talented and motivated software engineer to join our team. You will be responsible for developing high-quality software solutions and collaborating with cross-functional teams to define, design, and ship new features.",
+        "requirements": [
+          "Bachelor's degree in Computer Science or related field",
+          "Proficiency in Java, Python, or similar programming languages",
+          "Experience with web application development frameworks (e.g., Django, Flask)",
+          "Strong problem-solving skills and attention to detail"
+        ],
+        "posted_date": "2024-05-01",
+        "expiry_date": "2024-06-01"
+      },
+      {
+        "img": "https://images.pexels.com/photos/7014337/pexels-photo-7014337.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Marketing Manager",
+        "company": "Global Marketing Solutions",
+        "location": "Kawasaki , japan",
+        "salary": "$80,000 - $100,000 per year",
+        "description": "We are looking for an experienced marketing manager to develop and execute marketing strategies to drive customer acquisition, engagement, and retention. The ideal candidate will have a proven track record in digital marketing, excellent communication skills, and the ability to lead a team.",
+        "requirements": [
+          "Bachelor's degree in Marketing, Business Administration, or related field",
+          "Minimum of 5 years of experience in marketing roles",
+          "Expertise in digital marketing channels (e.g., SEO, SEM, social media)",
+          "Strong analytical skills and the ability to interpret data to make informed decisions"
+        ],
+        "posted_date": "2024-04-28",
+        "expiry_date": "2024-05-28"
+      },
+      {
+        "img": "https://images.pexels.com/photos/7014337/pexels-photo-7014337.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Data Scientist",
+        "company": "Insight Analytics",
+        "location": "Fukuoka, japan",
+        "salary": "$100,000 - $130,000 per year",
+        "description": "We are seeking a skilled data scientist to analyze large datasets and generate actionable insights to drive business decisions. The ideal candidate will have a strong background in statistics, machine learning, and programming, with experience in data visualization and storytelling.",
+        "requirements": [
+          "Master's or Ph.D. in Statistics, Mathematics, Computer Science, or related field",
+          "Proficiency in programming languages such as Python or R",
+          "Experience with machine learning techniques and algorithms",
+          "Strong communication skills and the ability to present complex findings in a clear and concise manner"
+        ],
+        "posted_date": "2024-04-30",
+        "expiry_date": "2024-05-30"
+      },
+      {
+        "img": "https://images.pexels.com/photos/7014337/pexels-photo-7014337.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Software Engineer",
+        "company": "Tech Innovations Inc.",
+        "location": "Kobe , japan",
+        "salary": "$90,000 - $120,000 per year",
+        "description": "We are seeking a talented and motivated software engineer to join our team. You will be responsible for developing high-quality software solutions and collaborating with cross-functional teams to define, design, and ship new features.",
+        "requirements": [
+          "Bachelor's degree in Computer Science or related field",
+          "Proficiency in Java, Python, or similar programming languages",
+          "Experience with web application development frameworks (e.g., Django, Flask)",
+          "Strong problem-solving skills and attention to detail"
+        ],
+        "posted_date": "2024-05-01",
+        "expiry_date": "2024-06-01"
+      },
+      {
+        "img": "https://images.pexels.com/photos/7014337/pexels-photo-7014337.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Marketing Manager",
+        "company": "Global Marketing Solutions",
+        "location": "Kyoto , japan",
+        "salary": "$80,000 - $100,000 per year",
+        "description": "We are looking for an experienced marketing manager to develop and execute marketing strategies to drive customer acquisition, engagement, and retention. The ideal candidate will have a proven track record in digital marketing, excellent communication skills, and the ability to lead a team.",
+        "requirements": [
+          "Bachelor's degree in Marketing, Business Administration, or related field",
+          "Minimum of 5 years of experience in marketing roles",
+          "Expertise in digital marketing channels (e.g., SEO, SEM, social media)",
+          "Strong analytical skills and the ability to interpret data to make informed decisions"
+        ],
+        "posted_date": "2024-04-28",
+        "expiry_date": "2024-05-28"
+      },
+      {
+        "img": "https://images.pexels.com/photos/7014337/pexels-photo-7014337.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Data Scientist",
+        "company": "Insight Analytics",
+        "location": "Sapporo, japan",
+        "salary": "$100,000 - $130,000 per year",
+        "description": "We are seeking a skilled data scientist to analyze large datasets and generate actionable insights to drive business decisions. The ideal candidate will have a strong background in statistics, machine learning, and programming, with experience in data visualization and storytelling.",
+        "requirements": [
+          "Master's or Ph.D. in Statistics, Mathematics, Computer Science, or related field",
+          "Proficiency in programming languages such as Python or R",
+          "Experience with machine learning techniques and algorithms",
+          "Strong communication skills and the ability to present complex findings in a clear and concise manner"
+        ],
+        "posted_date": "2024-04-30",
+        "expiry_date": "2024-05-30"
+      },
+      {
+        "img": "https://images.pexels.com/photos/7014337/pexels-photo-7014337.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Software Engineer",
+        "company": "Tech Innovations Inc.",
+        "location": "Nagoya, japan",
+        "salary": "$90,000 - $120,000 per year",
+        "description": "We are seeking a talented and motivated software engineer to join our team. You will be responsible for developing high-quality software solutions and collaborating with cross-functional teams to define, design, and ship new features.",
+        "requirements": [
+          "Bachelor's degree in Computer Science or related field",
+          "Proficiency in Java, Python, or similar programming languages",
+          "Experience with web application development frameworks (e.g., Django, Flask)",
+          "Strong problem-solving skills and attention to detail"
+        ],
+        "posted_date": "2024-05-01",
+        "expiry_date": "2024-06-01"
+      },
+      {
+        "img": "https://images.pexels.com/photos/7014337/pexels-photo-7014337.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Marketing Manager",
+        "company": "Global Marketing Solutions",
+        "location": "Yokohama,japan",
+        "salary": "$80,000 - $100,000 per year",
+        "description": "We are looking for an experienced marketing manager to develop and execute marketing strategies to drive customer acquisition, engagement, and retention. The ideal candidate will have a proven track record in digital marketing, excellent communication skills, and the ability to lead a team.",
+        "requirements": [
+          "Bachelor's degree in Marketing, Business Administration, or related field",
+          "Minimum of 5 years of experience in marketing roles",
+          "Expertise in digital marketing channels (e.g., SEO, SEM, social media)",
+          "Strong analytical skills and the ability to interpret data to make informed decisions"
+        ],
+        "posted_date": "2024-04-28",
+        "expiry_date": "2024-05-28"
+      },
+      {
+        "img": "https://images.pexels.com/photos/7014337/pexels-photo-7014337.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Data Scientist",
+        "company": "Insight Analytics",
+        "location": "Nagoya , japan",
+        "salary": "$100,000 - $130,000 per year",
+        "description": "We are seeking a skilled data scientist to analyze large datasets and generate actionable insights to drive business decisions. The ideal candidate will have a strong background in statistics, machine learning, and programming, with experience in data visualization and storytelling.",
+        "requirements": [
+          "Master's or Ph.D. in Statistics, Mathematics, Computer Science, or related field",
+          "Proficiency in programming languages such as Python or R",
+          "Experience with machine learning techniques and algorithms",
+          "Strong communication skills and the ability to present complex findings in a clear and concise manner"
+        ],
+        "posted_date": "2024-04-30",
+        "expiry_date": "2024-05-30"
+      },
+      {
+        "img": "https://images.pexels.com/photos/7014337/pexels-photo-7014337.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Data Scientist",
+        "company": "Insight Analytics",
+        "location": "Osaka, Japan",
+        "salary": "$100,000 - $130,000 per year",
+        "description": "We are seeking a skilled data scientist to analyze large datasets and generate actionable insights to drive business decisions. The ideal candidate will have a strong background in statistics, machine learning, and programming, with experience in data visualization and storytelling.",
+        "requirements": [
+          "Master's or Ph.D. in Statistics, Mathematics, Computer Science, or related field",
+          "Proficiency in programming languages such as Python or R",
+          "Experience with machine learning techniques and algorithms",
+          "Strong communication skills and the ability to present complex findings in a clear and concise manner"
+        ],
+        "posted_date": "2024-04-30",
+        "expiry_date": "2024-05-30"
+      }
+    ]
+  }
+  

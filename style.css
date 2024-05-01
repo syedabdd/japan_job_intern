@@ -1,0 +1,78 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    width: 100%;
+}
+.navbar{
+    display: flex;
+    gap: 35px;
+    justify-content: space-around;
+    align-items: center;
+    padding: 2rem;
+    object-fit: cover;
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 35%, rgba(70,217,252,1) 100%);
+
+}
+.seacrJob{
+    border-radius: 10px;
+    font-size: 20px;
+}
+input[type="text"] {
+    border-radius: 19px;
+    padding: 5px;
+    font-size: 20px;
+    padding-left: 8px;
+}
+
+.hero{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 10px;
+    height: 100%;
+    padding: 15px;
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 35%, rgba(70,217,252,1) 100%);
+}
+.card{
+    width: 38%;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 1%;
+    margin: 0 1%;
+    background-color: rgba(201, 194, 194, 0.397);
+    border-radius: 6px;
+    box-shadow: rgba(0,0,0,0.16) 0px 1px 4px;
+}
+.card-left img{
+    width: 5%;
+    min-width: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    border-radius: 50% ;
+}
+
+.card:hover{
+    box-shadow: rgba(0,0,0,0.24) 0px 3px 24px;
+}
+.Company-name{
+    /* font-size: 10px; */
+    line-height: 2px;
+}
+#languageSelector{
+    border: 2px solid;
+    border-radius: 8px;
+}
+.btn{
+    width: 100%;
+    font-size: larger;
+}
+/* .navimg{
+    height: 30px;
+} */
